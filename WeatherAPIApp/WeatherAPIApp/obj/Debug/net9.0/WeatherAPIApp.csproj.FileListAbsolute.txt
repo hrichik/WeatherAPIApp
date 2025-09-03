@@ -1,0 +1,14 @@
+C:\Users\hrich\Documents\WeatherAPIApp\WeatherAPIApp\bin\Debug\net9.0\WeatherAPIApp.exe
+C:\Users\hrich\Documents\WeatherAPIApp\WeatherAPIApp\bin\Debug\net9.0\WeatherAPIApp.deps.json
+C:\Users\hrich\Documents\WeatherAPIApp\WeatherAPIApp\bin\Debug\net9.0\WeatherAPIApp.runtimeconfig.json
+C:\Users\hrich\Documents\WeatherAPIApp\WeatherAPIApp\bin\Debug\net9.0\WeatherAPIApp.dll
+C:\Users\hrich\Documents\WeatherAPIApp\WeatherAPIApp\bin\Debug\net9.0\WeatherAPIApp.pdb
+C:\Users\hrich\Documents\WeatherAPIApp\WeatherAPIApp\obj\Debug\net9.0\WeatherAPIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrich\Documents\WeatherAPIApp\WeatherAPIApp\obj\Debug\net9.0\WeatherAPIApp.AssemblyInfoInputs.cache
+C:\Users\hrich\Documents\WeatherAPIApp\WeatherAPIApp\obj\Debug\net9.0\WeatherAPIApp.AssemblyInfo.cs
+C:\Users\hrich\Documents\WeatherAPIApp\WeatherAPIApp\obj\Debug\net9.0\WeatherAPIApp.csproj.CoreCompileInputs.cache
+C:\Users\hrich\Documents\WeatherAPIApp\WeatherAPIApp\obj\Debug\net9.0\WeatherAPIApp.dll
+C:\Users\hrich\Documents\WeatherAPIApp\WeatherAPIApp\obj\Debug\net9.0\refint\WeatherAPIApp.dll
+C:\Users\hrich\Documents\WeatherAPIApp\WeatherAPIApp\obj\Debug\net9.0\WeatherAPIApp.pdb
+C:\Users\hrich\Documents\WeatherAPIApp\WeatherAPIApp\obj\Debug\net9.0\WeatherAPIApp.genruntimeconfig.cache
+C:\Users\hrich\Documents\WeatherAPIApp\WeatherAPIApp\obj\Debug\net9.0\ref\WeatherAPIApp.dll
